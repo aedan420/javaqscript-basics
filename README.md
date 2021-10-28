@@ -1,3 +1,3 @@
-# My Game is Cool!
+aedans basic java script
 
-Make sure you give it a good description here...
+this where i will keep track of my stuff and what i was taught
